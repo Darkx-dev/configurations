@@ -1,0 +1,21 @@
+{
+  "name": "Roshan Kumar",
+  "level": "60",
+  "location": "Pune, India",
+  "email": "roshan.kumar@gmail.com",
+  "github": "https://github.com/Darkx-dev",
+  "occupation": "Full Stack Developer",
+  "number": "123456789",
+  "socialLink": "www.instagram.com",
+  "profileImage": "", 
+  "corporation": "404",
+  "isAvailable": true,
+  "linkedin": "https://www.linkedin.com/in/roshan-kumar-5b13161b9/",
+  "words": [
+    "developer",
+    "student",
+    "learner"
+  ],
+  "introduction": "My name is Roshan, and I am deeply fascinated by the limitless potential of the internet and its ability to enhance our lives. This passion has driven me to pursue a career in web engineering, where I aim to develop innovative and impactful web-based solutions. By leveraging the power of the internet, I aspire to solve complex problems and make a meaningful difference in people's lives.",
+  "career_development": "Throughout my career, I have gained experience with a broad spectrum of technologies, from front-end frameworks like React and Angular to back-end frameworks such as Node.js and Django. I am dedicated to staying up-to-date with the latest industry trends and tools, and I continually seek to learn new skills to refine and advance my craft."
+}

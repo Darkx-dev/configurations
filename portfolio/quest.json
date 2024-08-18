@@ -1,0 +1,10 @@
+{
+    "questHeader": "Dominate Backend",
+    "subQuests": [
+        {
+            "name": "Web Sockets",
+            "description": "Implement a server-client WebSocket connection using Node.js",
+            "difficulty": "Advanced"
+        }
+    ]
+}
