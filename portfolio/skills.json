@@ -1,6 +1,7 @@
 [
   {
-    "frontend": [
+    "name": "frontend",
+    "data": [
       {
         "name": "HTML",
         "percentage": "99%",
@@ -66,8 +67,11 @@
         "percentage": "75%",
         "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Framer-motion-logo.svg"
       }
-    ],
-    "backend": [
+    ]
+  },
+  {
+    "name": "backend",
+    "data": [
       {
         "name": "NodeJS",
         "percentage": "75%",
