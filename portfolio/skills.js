@@ -1,4 +1,4 @@
-const skills = {
+{
   frontend: [
     {
       name: "HTML",
@@ -77,7 +77,7 @@ const skills = {
         "https://upload.wikimedia.org/wikipedia/commons/e/e1/Framer-motion-logo.svg",
     },
   ],
-  backend: [
+  backend [
     {
       name: "NodeJS",
       percentage: "75%",
@@ -149,6 +149,4 @@ const skills = {
     //     "https://upload.wikimedia.org/wikipedia/commons/1/17/Apollo_GraphQL_logo.svg",
     // },
   ],
-};
-
-export { skills };
+}
